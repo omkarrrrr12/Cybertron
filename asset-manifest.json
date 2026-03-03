@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Cybertron/static/css/main.e6c13ad2.css",
+    "main.js": "/Cybertron/static/js/main.5126e289.js",
+    "static/js/453.fa1436ee.chunk.js": "/Cybertron/static/js/453.fa1436ee.chunk.js",
+    "static/media/cybertronBg.jpg": "/Cybertron/static/media/cybertronBg.9d9253025645bec243c5.jpg",
+    "static/media/about-image.jpeg": "/Cybertron/static/media/about-image.87fd3a8cac22d414a0b9.jpeg",
+    "static/media/logo.png": "/Cybertron/static/media/logo.ebb0668e4abe6502882d.png",
+    "index.html": "/Cybertron/index.html",
+    "main.e6c13ad2.css.map": "/Cybertron/static/css/main.e6c13ad2.css.map",
+    "main.5126e289.js.map": "/Cybertron/static/js/main.5126e289.js.map",
+    "453.fa1436ee.chunk.js.map": "/Cybertron/static/js/453.fa1436ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5126e289.js"
+  ]
+}
