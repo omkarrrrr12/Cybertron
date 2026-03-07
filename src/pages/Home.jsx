@@ -10,6 +10,7 @@ import Footer from "../components/Footer";
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 import { IconButton } from "@mui/material";
 import { Helmet } from "react-helmet-async";
+import ClientLogos from "../components/ourclients";
 // import { useEffect } from "react";
 export default function Home() {
 //   useEffect(() => {
@@ -54,6 +55,7 @@ export default function Home() {
       <Box sx={{ overflowX: "hidden" ,mt:0 }}>
         <HeroSection />
         <ServicesSection />
+        <ClientLogos />
         <WhyChooseUs />
         <AboutUs />
         <CTASection />
